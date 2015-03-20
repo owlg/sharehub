@@ -1,0 +1,4 @@
+Instead of fs.readFileSync() you will want to use fs.readFile() and instead of using the return value of this method you need to collect the value from a callback function that you pass in as the second argument. To learn more about callbacks, check out: [https://github.com/maxogden/art-of-node#callbacks](https://github.com/maxogden/art-of-node#callbacks).
+
+Documentation on the fs module can be found by pointing your browser here:
+  file:///usr/local/lib/node_modules/learnyounode/node_apidoc/fs.html
