@@ -1,0 +1,5 @@
+version 0.0.1
+Addition of multiple snippets before project starts
+Snippets might be useful in future
+
+Standard web interface and core functions
